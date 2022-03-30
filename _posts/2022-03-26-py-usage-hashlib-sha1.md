@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: use sha1 to encode data by py
+title: sha1 encoding
 categories: [py_usage]
 ---
 
